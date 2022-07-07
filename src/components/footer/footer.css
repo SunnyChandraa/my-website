@@ -1,0 +1,9 @@
+.footer-main{
+    padding: 13px;
+      width: auto;
+      background-color: transparent;
+      text-align: center;
+      font-size: 15pt;
+      opacity: 90%;
+      border-top: 3px dotted #68686863;
+  }
